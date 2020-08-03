@@ -1,14 +1,15 @@
+/*setting webpage background color and default text color*/
 body{
   color: rgba(255, 255, 255, 0.76);
   background: rgb(56, 56, 56);
 }
-
+/*decrease the margin and padding for the header*/
 header{
   margin-bottom: 1px;
   padding-bottom: 1px;
   
 }
-
+/*change color and font of heading name*/
 h1{
   color: rgb(0, 0, 0);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -17,12 +18,12 @@ h1{
   padding-bottom: 1px;
   border-bottom: 1px dashed rgba(255, 255, 255, 0.438);
 }
-
+/*move icon links to the top right side of the webpage*/
 .social-links{
   display: flex;  
   justify-content: flex-end;
 }
-
+/*shave edges of profile photo*/
 .image-circle{
   border-radius: 50%;
 }
@@ -30,20 +31,20 @@ h1{
 main{  
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
+/*intro*/
 main h2{
   font-size: 30px;
   color: rgb(255, 255, 255);
   text-align: center;
 }
-
+/*modifying intro sentence*/
 main h4{
   font-size: 20px;
   margin-bottom: 1px;
   padding-bottom: 1px;
   text-align: center;
 }
-
+/*modifying location sentence*/
 .location{
   margin-top: 1px;
   padding-top: 1px;
@@ -51,7 +52,7 @@ main h4{
   text-align: center;
   margin-bottom: 5px;
 }
-
+/*edit "bio" heading*/
 main .bio h4{
   margin-top: 1px;
   margin-bottom: 2px;
@@ -59,18 +60,18 @@ main .bio h4{
   text-decoration: underline;
   text-align: center;
 }
-
+/*edit "bio" paragraph*/
 main .bio p{
   font-size: 13px;
   text-align: left;
   margin-bottom: 1px;
 }
-
+/*edit "bio" list under paragraph*/
 main .bio ol{
   font-size: 13px;
   margin: 1px;
 }
-
+/*move credit to the right side of the webpage*/
 .credits{
   text-align: right;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
