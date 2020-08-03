@@ -1,0 +1,80 @@
+body{
+  color: rgba(255, 255, 255, 0.76);
+  background: rgb(56, 56, 56);
+}
+
+header{
+  margin-bottom: 1px;
+  padding-bottom: 1px;
+  
+}
+
+h1{
+  color: rgb(0, 0, 0);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  margin-bottom: 1px;
+  padding-bottom: 1px;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.438);
+}
+
+.social-links{
+  display: flex;  
+  justify-content: flex-end;
+}
+
+.image-circle{
+  border-radius: 50%;
+}
+
+main{  
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main h2{
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+main h4{
+  font-size: 20px;
+  margin-bottom: 1px;
+  padding-bottom: 1px;
+  text-align: center;
+}
+
+.location{
+  margin-top: 1px;
+  padding-top: 1px;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+main .bio h4{
+  margin-top: 1px;
+  margin-bottom: 2px;
+  padding-bottom: 2px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+main .bio p{
+  font-size: 13px;
+  text-align: left;
+  margin-bottom: 1px;
+}
+
+main .bio ol{
+  font-size: 13px;
+  margin: 1px;
+}
+
+.credits{
+  text-align: right;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgba(0, 0, 0, 0.61);
+  margin-top: 0px;
+  padding-top: 0px;
+}
