@@ -21,12 +21,10 @@
     </header>
 
     <main>
-      <h2>I am Bridgette Turner</h2>
-         
+      <img src= "elephant_butt.jpg" width= "300" class= "image-circle" align= "right"> 
+      <h2>I am Bridgette Turner</h2>         
       <h4>An adventerous student of computer engineering.</h4>
-      <p class= "location">Resident of the world living in Denver, Colorado.</p>
-      <br>
-      <img src= "elephant_butt.jpg" width= "300" class= "image-circle" align= "right">   
+      <p class= "location">Resident of the world living in Denver, Colorado.</p>       
       <div class= "bio">
       <h4>BIO</h4>      
       <p>After years in the hospitality industry and searching for my muse, I found the fascinating world of coding. I began my journey initially teaching myself and later joining Thinkful.
