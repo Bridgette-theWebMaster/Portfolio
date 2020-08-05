@@ -72,8 +72,14 @@ main .bio ol{
   font-size: 13px;
   margin: 1px;
 }
+/*edit "contact"*/
+h3{
+  font-size: 10px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgba(0, 0, 0, 0.61);
+}
 /*move credit to the right side of the webpage*/
-h3 .credits{
+.credits{
   text-align: right;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: rgba(0, 0, 0, 0.61);
