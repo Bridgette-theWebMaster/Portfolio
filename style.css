@@ -31,6 +31,8 @@ h1 footer{
 
 main{  
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 /*intro*/
 main h2{
@@ -43,7 +45,7 @@ main .intro{
   font-size: 20px;
   margin-bottom: 1px;
   padding-bottom: 1px;
-  text-align: center;
+  text-align: left;
 }
 /*modifying location sentence*/
 .location{
