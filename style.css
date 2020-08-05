@@ -1,3 +1,4 @@
+/*structure*/
 /*setting webpage background color and default text color*/
 body{
   color: rgba(255, 255, 255, 0.76);
@@ -6,9 +7,9 @@ body{
 /*decrease the margin and padding for the header*/
 header{
   margin-bottom: 1px;
-  padding-bottom: 1px;
-  
+  padding-bottom: 1px;  
 }
+/*logo*/
 /*change color and font of heading name*/
 h1{
   color: rgb(255, 255, 255);
@@ -18,11 +19,14 @@ h1{
   padding-bottom: 1px;
   border-bottom: 1px dashed rgba(255, 255, 255, 0.438);
 }
+/*contact 1*/
 /*move icon links to the top right side of the webpage*/
 .social-links{
   display: flex;  
   justify-content: flex-end;
 }
+
+/*webpage content*/
 /*shave edges of profile photo*/
 .image-circle{
   border-radius: 50%;
@@ -74,6 +78,8 @@ main .bio ol{
   font-size: 13px;
   margin: 1px;
 }
+
+/*contact 2 and footer credits*/
 /*move credit to the right side of the webpage*/
 .credits{
   text-align: right;
