@@ -39,7 +39,7 @@ main h2{
   text-align: center;
 }
 /*modifying intro sentence*/
-main h4 h3{
+main h4 h3 .intro{
   font-size: 20px;
   margin-bottom: 1px;
   padding-bottom: 1px;
