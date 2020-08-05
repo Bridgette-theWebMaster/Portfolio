@@ -26,6 +26,7 @@ h1{
 /*shave edges of profile photo*/
 .image-circle{
   border-radius: 50%;
+  float: right;
 }
 
 main{  
@@ -72,7 +73,7 @@ main .bio ol{
   margin: 1px;
 }
 /*move credit to the right side of the webpage*/
-.credits{
+h3 .credits{
   text-align: right;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: rgba(0, 0, 0, 0.61);
