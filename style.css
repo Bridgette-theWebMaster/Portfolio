@@ -39,7 +39,7 @@ main h2{
   text-align: center;
 }
 /*modifying intro sentence*/
-main h4{
+main h4 h3{
   font-size: 20px;
   margin-bottom: 1px;
   padding-bottom: 1px;
@@ -71,12 +71,6 @@ main .bio p{
 main .bio ol{
   font-size: 13px;
   margin: 1px;
-}
-/*edit "contact"*/
-h3{
-  font-size: 10px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: rgba(0, 0, 0, 0.61);
 }
 /*move credit to the right side of the webpage*/
 .credits{
